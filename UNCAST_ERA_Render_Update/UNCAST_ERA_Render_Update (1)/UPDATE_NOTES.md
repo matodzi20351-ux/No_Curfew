@@ -1,0 +1,1 @@
+Updated sitemap and robots.txt to https://no-curfew-shop.onrender.com and privacy hosting text to Render. Added Render deployment instructions. Video remains removed; anonymous brand About Us and R210 front/back Fox Logo Tee retained. Payments remain manual and ads inactive. Redeploy these files to apply changes.

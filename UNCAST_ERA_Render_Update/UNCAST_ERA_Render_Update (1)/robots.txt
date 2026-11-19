@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://no-curfew-shop.onrender.com/sitemap.xml
